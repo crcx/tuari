@@ -1,3 +1,5 @@
+# Tuari -- A small http server
+# Gifted to the public domain
 ################ Configuration  ##################################
 
 use Cwd;
