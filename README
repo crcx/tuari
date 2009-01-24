@@ -1,0 +1,7 @@
+Tuari
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is a minimalist HTTP server intended for use with some of my
+other projects.
+
+It's based on p5httpd-0.04, and is gifted to the public domain.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
